@@ -26,7 +26,6 @@ Sou desenvolvedor Full Stack, transformando desafios técnicos em soluções dir
   <img width="20" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo" />
 </div>
 
 ## Estatísticas
