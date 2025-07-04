@@ -3,20 +3,6 @@
 
 Sou desenvolvedor Full Stack, transformando desafios técnicos em soluções diretas e eficientes. Cada projeto é uma oportunidade de aplicar minha experiência para gerar resultados que impactam de forma concreta os usuários. Se você busca inovação alinhada à praticidade, vamos conversar.
 
-## 🚀 Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
-</p>
 
 ## 📊 Estatísticas
 
